@@ -1,2 +1,6 @@
 benne a tartalom
+<<<<<<< HEAD
 Magyar Viktor
+=======
+VargaKristóf
+>>>>>>> 11f598deb50100836ceb504b158db365fc3312fd
